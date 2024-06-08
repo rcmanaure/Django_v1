@@ -39,9 +39,9 @@ $ .venv\Scripts\Activate.ps1
 $ source .venv/bin/activate
 
 (.venv) $ pip install -r requirements.txt
-(.venv) $ python manage.py migrate
-(.venv) $ python manage.py createsuperuser
-(.venv) $ python manage.py runserver
+(.venv) $ python3 manage.py migrate
+(.venv) $ python3 manage.py createsuperuser
+(.venv) $ python3 manage.py runserver
 # Load the site at http://127.0.0.1:8000
 ```
 
