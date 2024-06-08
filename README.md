@@ -83,8 +83,13 @@ $ docker-compose exec backend_django python manage.py createsuperuser
 # Load the site at http://127.0.0.1:8000
 ```
 
-## Notes:
-  - It's recommended to run all pre-commit hooks before push to avoid errors. Run this: `pre-commit run --all-files`
+## Development Guidelines
+
+- Branches: Follow the Git Flow branching strategy.
+- Commits: Make meaningful and well-documented commits.
+- Pull Requests: Create PRs for feature development or bug fixes.
+- Don't push directly on main branch
+- It's recommended to run all pre-commit hooks before push to avoid errors. Run this: `pre-commit run --all-files`
 ----
 ## License
 
