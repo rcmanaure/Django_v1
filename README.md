@@ -1,9 +1,3 @@
-> A batteries-included Django starter project. To learn more visit [LearnDjango.com](https://learndjango.com).
-
-
-https://github.com/wsvincent/djangox/assets/766418/a73ea730-a7b4-4e53-bf51-aa68f6816d6a
-
-
 ## 🚀 Features
 
 - Django 5.0 & Python 3.12
