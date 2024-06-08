@@ -82,6 +82,8 @@ $ docker-compose exec backend_django python manage.py createsuperuser
 # Load the site at http://127.0.0.1:8000
 ```
 
+## Notes:
+  - It's recommended to run all pre-commit hooks before push to avoid errors. Run this: `pre-commit run --all-files`
 ----
 ## License
 
